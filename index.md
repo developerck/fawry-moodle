@@ -74,9 +74,3 @@
 > [(https://www.paymob.com/) ](https://www.paymob.com/)
 	* support CARD, Wallet, At Kiosk payment
 
-## - Contact httplab2020@gmail.com for this
-
-## *Following are the guide of the process*
-
-
-https://drive.google.com/file/d/1BfZm44VwPMcucEyY3L7-NqMCX1xitoyn/view?usp=sharing
